@@ -1,0 +1,29 @@
+Vilican Internal Import Classification Guide (2026 Edition)
+
+Section 1: Toys Classification
+Most plastic toys for children under age 14 are classified under HSN 9503.
+These may require BIS compliance certification under Indian safety standards.
+If product includes electronics or battery components, additional testing may be required.
+
+Section 2: LED Lighting Products
+LED decorative lighting fittings are typically classified under HSN 9405.
+Duty rate may vary depending on whether it is a finished product or component.
+Verify applicable tariff heading in CBIC Customs Tariff Schedule.
+
+Section 3: Solar Equipment
+Solar photovoltaic modules and cells generally fall under HSN 8541.
+Certain solar equipment may be eligible for concessional duty under renewable energy policy.
+Check latest CBIC notifications for updated duty structure.
+
+Section 4: Wireless Products
+Products containing WiFi, Bluetooth, or RF modules require WPC/ETA approval before import.
+Model number and RF frequency details must be declared.
+
+Section 5: Required Documents
+All imports require:
+- Commercial Invoice
+- Packing List
+- Bill of Lading / Airway Bill
+- Certificate of Origin
+- IEC (Importer Exporter Code)
+Additional compliance certificates may be required depending on product category.

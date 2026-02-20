@@ -1,0 +1,21 @@
+HSN basics:
+HSN is the Harmonized System of Nomenclature used to classify goods for customs and GST.
+
+Common examples:
+LED lamps and lighting fittings often fall under HSN 9405 (depends on product type).
+Toys generally fall under HSN 9503.
+Electric motors are commonly under HSN 8501.
+Solar cells/modules are commonly under HSN 8541.
+
+Compliance hints (high-level):
+Wireless devices may require WPC/ETA compliance.
+Food items may require FSSAI compliance.
+Certain product categories may require BIS certification (e.g., toys/electronics in some cases).
+
+Documents commonly required:
+Commercial Invoice, Packing List, Bill of Lading/AWB, Certificate of Origin, Insurance (if applicable), Technical datasheet/specification, Importer IEC details.
+
+Verification steps:
+Check CBIC Customs Tariff for chapter notes and duty rates.
+Check DGFT/ITC(HS) for restrictions or licensing requirements.
+Use ICEGATE references for filing and clearance process.
